@@ -18,7 +18,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/christianh814/kargo-simple-demo
+        repoURL: https://github.com/blakepettersson/kargo-simple-demo
         targetRevision: stage/{{stage}}
         path: app/stages/{{stage}}
       destination:
